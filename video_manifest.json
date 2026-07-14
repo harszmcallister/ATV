@@ -1,0 +1,404 @@
+{
+  "comparisons": [
+    {
+      "topic_name": "CM vs Deputy CM",
+      "item_a_title_en": "Chief Minister",
+      "item_a_title_te": "ముఖ్యమంత్రి",
+      "item_b_title_en": "Deputy CM",
+      "item_b_title_te": "ఉప ముఖ్యమంత్రి",
+      "steps": [
+        {
+          "step_id": 1,
+          "start_time_seconds": 0.0,
+          "end_time_seconds": 0.9,
+          "spoken_phrase": "ఇది సీఎం.",
+          "visible_animals": [
+            "cm.png"
+          ],
+          "selected_stickman_pose": "pointing_left.png",
+          "text_overlay": "ఇది సీఎం."
+        },
+        {
+          "step_id": 2,
+          "start_time_seconds": 0.9,
+          "end_time_seconds": 2.2,
+          "spoken_phrase": "ఇది డిప్యూటీ సీఎం.",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "pointing_right.png",
+          "text_overlay": "ఇది డిప్యూటీ సీఎం."
+        },
+        {
+          "step_id": 3,
+          "start_time_seconds": 2.2,
+          "end_time_seconds": 3.7,
+          "spoken_phrase": "తేడా ఏమిటి?",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "wondering.png",
+          "text_overlay": "తేడా ఏమిటి?"
+        },
+        {
+          "step_id": 4,
+          "start_time_seconds": 3.7,
+          "end_time_seconds": 5.3,
+          "spoken_phrase": "సీఎం అనేవారు రాష్ట్ర ప్రభుత్వానికి",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_left.png",
+          "text_overlay": "సీఎం అనేవారు రాష్ట్ర ప్రభుత్వానికి"
+        },
+        {
+          "step_id": 5,
+          "start_time_seconds": 5.3,
+          "end_time_seconds": 6.9,
+          "spoken_phrase": "అసలైన అధినేత.",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_left.png",
+          "text_overlay": "అసలైన అధినేత."
+        },
+        {
+          "step_id": 6,
+          "start_time_seconds": 6.9,
+          "end_time_seconds": 9.7,
+          "spoken_phrase": "రాష్ట్రంలో ఏ మంత్రికి ఏ శాఖ ఇవ్వాలి,",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_left.png",
+          "text_overlay": "రాష్ట్రంలో ఏ మంత్రికి ఏ శాఖ ఇవ్వాలి,"
+        },
+        {
+          "step_id": 7,
+          "start_time_seconds": 9.7,
+          "end_time_seconds": 11.2,
+          "spoken_phrase": "ఏ ఏ పథకాలు తేవాలి,",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_left.png",
+          "text_overlay": "ఏ ఏ పథకాలు తేవాలి,"
+        },
+        {
+          "step_id": 8,
+          "start_time_seconds": 11.2,
+          "end_time_seconds": 12.9,
+          "spoken_phrase": "ఎలాంటి నిర్ణయాలు తీసుకోవాలో",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_left.png",
+          "text_overlay": "ఎలాంటి నిర్ణయాలు తీసుకోవాలో"
+        },
+        {
+          "step_id": 9,
+          "start_time_seconds": 12.9,
+          "end_time_seconds": 14.5,
+          "spoken_phrase": "డిసైడ్ చేసే పూర్తి పవర్స్",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_left.png",
+          "text_overlay": "డిసైడ్ చేసే పూర్తి పవర్స్"
+        },
+        {
+          "step_id": 10,
+          "start_time_seconds": 14.5,
+          "end_time_seconds": 16.3,
+          "spoken_phrase": "ఈయన చేతుల్లోనే ఉంటాయి.",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_left.png",
+          "text_overlay": "ఈయన చేతుల్లోనే ఉంటాయి."
+        },
+        {
+          "step_id": 11,
+          "start_time_seconds": 16.3,
+          "end_time_seconds": 17.9,
+          "spoken_phrase": "కానీ డిప్యూటీ సీఎం పదవికి",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_right.png",
+          "text_overlay": "కానీ డిప్యూటీ సీఎం పదవికి"
+        },
+        {
+          "step_id": 12,
+          "start_time_seconds": 17.9,
+          "end_time_seconds": 19.4,
+          "spoken_phrase": "భారత రాజ్యాంగంలో ఎలాంటి ప్రత్యేక",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_right.png",
+          "text_overlay": "భారత రాజ్యాంగంలో ఎలాంటి ప్రత్యేక"
+        },
+        {
+          "step_id": 13,
+          "start_time_seconds": 19.4,
+          "end_time_seconds": 21.6,
+          "spoken_phrase": "అధికారాలు రాయబడలేదు.",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_right.png",
+          "text_overlay": "అధికారాలు రాయబడలేదు."
+        },
+        {
+          "step_id": 14,
+          "start_time_seconds": 21.6,
+          "end_time_seconds": 23.5,
+          "spoken_phrase": "కేవలం రాజకీయ సమీకరణాలు లేదా",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_right.png",
+          "text_overlay": "కేవలం రాజకీయ సమీకరణాలు లేదా"
+        },
+        {
+          "step_id": 15,
+          "start_time_seconds": 23.5,
+          "end_time_seconds": 25.0,
+          "spoken_phrase": "కూటమి ప్రభుత్వాల బ్యాలెన్సింగ్ కోసం",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_right.png",
+          "text_overlay": "కూటమి ప్రభుత్వాల బ్యాలెన్సింగ్ కోసం"
+        },
+        {
+          "step_id": 16,
+          "start_time_seconds": 25.0,
+          "end_time_seconds": 27.7,
+          "spoken_phrase": "మాత్రమే ఈ పదవిని ఇస్తారు.",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_right.png",
+          "text_overlay": "మాత్రమే ఈ పదవిని ఇస్తారు."
+        },
+        {
+          "step_id": 17,
+          "start_time_seconds": 27.7,
+          "end_time_seconds": 30.7,
+          "spoken_phrase": "సీఎం కేటాయించిన శాఖలను చూసుకోవడం తప్ప",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_right.png",
+          "text_overlay": "సీఎం కేటాయించిన శాఖలను చూసుకోవడం తప్ప"
+        },
+        {
+          "step_id": 18,
+          "start_time_seconds": 30.7,
+          "end_time_seconds": 32.3,
+          "spoken_phrase": "క్యాబినెట్లో ఈయన హోదా మిగతా",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_right.png",
+          "text_overlay": "క్యాబినెట్లో ఈయన హోదా మిగతా"
+        },
+        {
+          "step_id": 19,
+          "start_time_seconds": 32.3,
+          "end_time_seconds": 33.984,
+          "spoken_phrase": "సాధారణ మంత్రుల లాంటిదే.",
+          "visible_animals": [
+            "cm.png",
+            "deputy cm.png"
+          ],
+          "selected_stickman_pose": "explaining_right.png",
+          "text_overlay": "సాధారణ మంత్రుల లాంటిదే."
+        }
+      ]
+    },
+    {
+      "topic_name": "MLA vs MP",
+      "item_a_title_en": "MLA",
+      "item_a_title_te": "శాసనసభ్యుడు",
+      "item_b_title_en": "MP",
+      "item_b_title_te": "పార్లమెంటు సభ్యుడు",
+      "steps": [
+        {
+          "step_id": 20,
+          "start_time_seconds": 33.984,
+          "end_time_seconds": 34.9,
+          "spoken_phrase": "ఇది ఎమ్మెల్యే.",
+          "visible_animals": [
+            "mla.png"
+          ],
+          "selected_stickman_pose": "pointing_left.png",
+          "text_overlay": "ఇది ఎమ్మెల్యే."
+        },
+        {
+          "step_id": 21,
+          "start_time_seconds": 34.9,
+          "end_time_seconds": 35.9,
+          "spoken_phrase": "ఇది ఎంపీ.",
+          "visible_animals": [
+            "mla.png",
+            "mp.png"
+          ],
+          "selected_stickman_pose": "pointing_right.png",
+          "text_overlay": "ఇది ఎంపీ."
+        },
+        {
+          "step_id": 22,
+          "start_time_seconds": 35.9,
+          "end_time_seconds": 37.5,
+          "spoken_phrase": "తేడా ఏమిటి?",
+          "visible_animals": [
+            "mla.png",
+            "mp.png"
+          ],
+          "selected_stickman_pose": "wondering.png",
+          "text_overlay": "తేడా ఏమిటి?"
+        },
+        {
+          "step_id": 23,
+          "start_time_seconds": 37.5,
+          "end_time_seconds": 39.6,
+          "spoken_phrase": "ఎమ్మెల్యే అంటే రాష్ట్ర అసెంబ్లీ సభ్యులు.",
+          "visible_animals": [
+            "mla.png",
+            "mp.png"
+          ],
+          "selected_stickman_pose": "explaining_left.png",
+          "text_overlay": "ఎమ్మెల్యే అంటే రాష్ట్ర అసెంబ్లీ సభ్యులు."
+        },
+        {
+          "step_id": 24,
+          "start_time_seconds": 39.6,
+          "end_time_seconds": 43.8,
+          "spoken_phrase": "ఒక చిన్న నియోజకవర్గ ప్రజలు తమ ప్రాంతీయ సమస్యలను పరిష్కరించుకోవడానికి",
+          "visible_animals": [
+            "mla.png",
+            "mp.png"
+          ],
+          "selected_stickman_pose": "explaining_left.png",
+          "text_overlay": "ఒక చిన్న నియోజకవర్గ ప్రజలు తమ ప్రాంతీయ సమస్యలను పరిష్కరించుకోవడానికి"
+        },
+        {
+          "step_id": 25,
+          "start_time_seconds": 43.8,
+          "end_time_seconds": 47.0,
+          "spoken_phrase": "రాష్ట్ర స్థాయి చట్టాలు చేయడానికి వీళ్ళని ఓట్లేసి ఎన్నుకుంటారు.",
+          "visible_animals": [
+            "mla.png",
+            "mp.png"
+          ],
+          "selected_stickman_pose": "explaining_left.png",
+          "text_overlay": "రాష్ట్ర స్థాయి చట్టాలు చేయడానికి వీళ్ళని ఓట్లేసి ఎన్నుకుంటారు."
+        },
+        {
+          "step_id": 26,
+          "start_time_seconds": 47.0,
+          "end_time_seconds": 50.7,
+          "spoken_phrase": "వీళ్ళ పరిధి కేవలం ఆ రాష్ట్ర అసెంబ్లీ వరకే ఉంటుంది.",
+          "visible_animals": [
+            "mla.png",
+            "mp.png"
+          ],
+          "selected_stickman_pose": "explaining_left.png",
+          "text_overlay": "వీళ్ళ పరిధి కేవలం ఆ రాష్ట్ర అసెంబ్లీ వరకే ఉంటుంది."
+        },
+        {
+          "step_id": 27,
+          "start_time_seconds": 50.7,
+          "end_time_seconds": 53.0,
+          "spoken_phrase": "కానీ ఎంపీ అంటే దేశ పార్లమెంట్ సభ్యుడు.",
+          "visible_animals": [
+            "mla.png",
+            "mp.png"
+          ],
+          "selected_stickman_pose": "explaining_right.png",
+          "text_overlay": "కానీ ఎంపీ అంటే దేశ పార్లమెంట్ సభ్యుడు."
+        },
+        {
+          "step_id": 28,
+          "start_time_seconds": 53.0,
+          "end_time_seconds": 55.5,
+          "spoken_phrase": "దేశ రక్షణ, విదేశీ వ్యవహారాలు,",
+          "visible_animals": [
+            "mla.png",
+            "mp.png"
+          ],
+          "selected_stickman_pose": "explaining_right.png",
+          "text_overlay": "దేశ రక్షణ, విదేశీ వ్యవహారాలు,"
+        },
+        {
+          "step_id": 29,
+          "start_time_seconds": 55.5,
+          "end_time_seconds": 59.5,
+          "spoken_phrase": "జాతీయ రహదారులు లాంటి కేంద్ర ప్రభుత్వ పరిధిలోని అంశాలపై చట్టాలు చేయడానికి",
+          "visible_animals": [
+            "mla.png",
+            "mp.png"
+          ],
+          "selected_stickman_pose": "explaining_right.png",
+          "text_overlay": "జాతీయ రహదారులు లాంటి కేంద్ర ప్రభుత్వ పరిధిలోని"
+        },
+        {
+          "step_id": 30,
+          "start_time_seconds": 59.5,
+          "end_time_seconds": 61.0,
+          "spoken_phrase": "వీళ్ళని ఎన్నుకుంటారు.",
+          "visible_animals": [
+            "mla.png",
+            "mp.png"
+          ],
+          "selected_stickman_pose": "explaining_right.png",
+          "text_overlay": "అంశాలపై చట్టాలు చేయడానికి వీళ్ళని ఎన్నుకుంటారు."
+        },
+        {
+          "step_id": 31,
+          "start_time_seconds": 61.0,
+          "end_time_seconds": 65.5,
+          "spoken_phrase": "సింపుల్ గా చెప్పాలంటే సాధారణంగా ఏడు నుండి ఎనిమిది ఎమ్మెల్యే నియోజకవర్గాలు కలిస్తేనే",
+          "visible_animals": [
+            "mla.png",
+            "mp.png"
+          ],
+          "selected_stickman_pose": "explaining_right.png",
+          "text_overlay": "సింపుల్ గా చెప్పాలంటే సాధారణంగా ఏడు నుండి ఎనిమిది"
+        },
+        {
+          "step_id": 32,
+          "start_time_seconds": 65.5,
+          "end_time_seconds": 68.0,
+          "spoken_phrase": "ఒక ఎంపీ నియోజకవర్గం అవుతుంది.",
+          "visible_animals": [
+            "mla.png",
+            "mp.png"
+          ],
+          "selected_stickman_pose": "explaining_right.png",
+          "text_overlay": "ఎమ్మెల్యే నియోజకవర్గాలు కలిస్తేనే ఒక ఎంపీ నియోజకవర్గం అవుతుంది."
+        }
+      ]
+    }
+  ]
+}
